@@ -1,6 +1,6 @@
-# 🛠️ My Kali Upgrades
+# 🛠️ My Ricing Upgrades
 
-A showcase of my customized Kali Linux setup featuring a sleek and minimal aesthetic. 🎨✨
+A showcase of my customized Linux setup featuring a sleek and minimal aesthetic. 🎨✨
 
 ## 🚀 Stuff Used
 - 🐟 **Fish shell** – A smart and user-friendly shell
